@@ -1,0 +1,6 @@
+Ceo: Definir o planejamento estratégico da empresa e buscar uma visão futura para a companhia a qual ele está gerindo
+Gerente financeiro:
+Controla o fluxo de caixa, fazer previsões financeiras, planejar o orçamento, gerenciar investimentos, entre outras atividades
+Programador: cria aplicativos, programas, sistemas, sites e até games utilizando diversas linguagens de programação
+Gerente de estoque: Realiza os lançamentos da movimentação de entradas, saídas e controla os estoques.
+Entregador: Prepara cargas e descargas de mercadorias, movimenta materiais nos caminhões e realiza a entrega dos pedidos aos clientes.
